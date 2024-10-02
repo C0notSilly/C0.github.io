@@ -36,9 +36,18 @@ My research interests include computer vision, model robustness and synthetic da
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv_method.png' alt="eccv_24" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[MTaDCS: Moving Trace and Feature Density-based Confidence Sample Selection under Label Noise](https://neurips.cc/virtual/2024/poster/94907)
+[MTaDCS: Moving Trace and Feature Density-based Confidence Sample Selection under Label Noise](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08968.pdf)
 
 Qingzheng Huang\*, **Xilin He**\*, Xiaole Xian, Qinliang Lin, Weicheng Xie, Siyang Song, Linlin Shen, Zitong Yu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv_method.png' alt="eccv_24" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Shift from Texture-bias to Shape-bias: Edge Deformation-based Augmentation for Robust Object Recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Shift_from_Texture-bias_to_Shape-bias_Edge_Deformation-based_Augmentation_for_Robust_ICCV_2023_paper.pdf)
+
+**Xilin He**, Qinliang Lin, Cheng Luo, Weicheng Xie, Siyang Song, Feng Liu, Linlin Shen
 
 </div>
 </div>
