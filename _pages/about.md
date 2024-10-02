@@ -26,7 +26,7 @@ My research interests include computer vision, model robustness and synthetic da
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='/images/neurips_method.png' alt="neurips_24" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Towards Combating Frequency Simplicity-biased Learning for Domain Generalization]([https://neurips.cc/virtual/2024/poster/94907](https://neurips.cc/virtual/2024/poster/94907))
+[Towards Combating Frequency Simplicity-biased Learning for Domain Generalization](https://neurips.cc/virtual/2024/poster/94907)
 
 **Xilin He**, Jingyu Hu, Qinliang Lin, Cheng Luo, Weicheng Xie, Siyang Song, Muhammad Haris Khan, Linlin Shen
 
