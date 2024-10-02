@@ -23,12 +23,19 @@ My research interests include computer vision, model robustness and synthetic da
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCV 2023. 
 
 # 📝 Publications 
+\* indicates equal contribution.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/neurips_method.png' alt="neurips_24" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Towards Combating Frequency Simplicity-biased Learning for Domain Generalization](https://neurips.cc/virtual/2024/poster/94907)
 
 **Xilin He**, Jingyu Hu, Qinliang Lin, Cheng Luo, Weicheng Xie, Siyang Song, Muhammad Haris Khan, Linlin Shen
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv_method.png' alt="eccv_24" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[MTaDCS: Moving Trace and Feature Density-based Confidence Sample Selection under Label Noise](https://neurips.cc/virtual/2024/poster/94907)
+
+Qingzheng Huang\*, **Xilin He**\*, Xiaole Xian, Qinliang Lin, Weicheng Xie, Siyang Song, Linlin Shen, Zitong Yu
 
 <!-- 这是一个注释，不会在最终渲染中显示 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
