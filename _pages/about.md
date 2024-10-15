@@ -27,11 +27,11 @@ My research interests include computer vision, model robustness and synthetic da
 # 📝 Publications 
 \* indicates equal contribution.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/neurips_method.png' alt="arxiv_synfer" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/synfer.jpg' alt="arxiv_synfer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SynFER: Towards Boosting Facial Expression Recognition with Synthetic Data](https://arxiv.org/pdf/2410.09865)
 
-**Xilin He**, Jingyu Hu, Qinliang Lin, Cheng Luo, Weicheng Xie, Siyang Song, Muhammad Haris Khan, Linlin Shen
+**Xilin He**\*, Cheng Luo\*, Xiaole Xian, Bing Li, Siyang Song, Muhammad Haris Khan, Weicheng Xie, Linlin Shen, Zongyuan Ge
 
 </div>
 </div>
