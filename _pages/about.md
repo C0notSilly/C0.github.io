@@ -21,10 +21,11 @@ I'm actively looking for collaboration and PhD opporutinity, please feel free to
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Two papers accepted by WACV 2025.
 - *2024.10*: &nbsp;🎉🎉 We released SynFER on ArXiv. 
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024. 
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2024. 
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCV 2023. 
+- *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024. 
+- *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV 2024. 
+- *2023.07*: &nbsp;🎉🎉 One paper accepted by ICCV 2023. 
 
 # 📝 Publications 
 \* indicates equal contribution.
