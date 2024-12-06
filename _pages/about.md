@@ -91,4 +91,4 @@ Qingzheng Huang\*, **Xilin He**\*, Xiaole Xian, Qinliang Lin, Weicheng Xie, Siya
 -->
 
 # 🗺️ Visitor Map
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lot17UxS8xZNGqTJVA3nNSP12Cuo7ITBNsD7tA8BHAo&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lot17UxS8xZNGqTJVA3nNSP12Cuo7ITBNsD7tA8BHAo&cl=ffffff&w=s"></script>
