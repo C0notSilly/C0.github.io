@@ -21,6 +21,7 @@ I'm actively looking for collaboration and PhD opporutinity, please feel free to
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Three papers accepted by AAAI 2025.
 - *2024.10*: &nbsp;🎉🎉 Two papers accepted by WACV 2025.
 - *2024.10*: &nbsp;🎉🎉 We released SynFER on ArXiv. 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024. 
