@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently an undergraduate student at Shenzhen University. I'm about to join MMLab, CUHK as a research assistant, supervised by Prof. Xiangyu Yue.
 I was honored to be supervised and collaborated with Prof. Weicheng Xie, Prof. Siyang Song and Prof. Linlin Shen during my undergraduate studies. 
-I also work with Prof. Muhammad Haris Khan on domain generalization-realted topic.
+I also work with Prof. Muhammad Haris Khan on domain generalization-related topics.
 My research interests include computer vision, model robustness and synthetic data. 
 
 I'm actively looking for collaboration and PhD opporutinity, please feel free to drop me an email if interested.
