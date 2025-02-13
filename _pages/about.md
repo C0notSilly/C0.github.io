@@ -10,12 +10,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at Shenzhen University. I'm about to join MMLab, CUHK as a research assistant, supervised by Prof. Xiangyu Yue.
+I am currently a junior research assistant at the Multimedia Laboratory, CUHK, supervised by Prof. Xiangyu Yue.
 I was honored to be supervised and collaborated with Prof. Weicheng Xie, Prof. Siyang Song and Prof. Linlin Shen during my undergraduate studies. 
 I also work with Prof. Muhammad Haris Khan on domain generalization-related topics.
 My research interests include computer vision, model robustness and synthetic data. 
 
-I'm actively looking for collaboration and PhD opporutinity, please feel free to drop me an email if interested.
+I'm actively looking for collaboration and PhD opportunity, please feel free to drop me an email if interested.
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
