@@ -21,6 +21,7 @@ I'm actively looking for collaboration and PhD opportunity, please feel free to 
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper accepted by ICCV 2025.
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by ICML 2025.
 - *2024.12*: &nbsp;🎉🎉 Three papers accepted by AAAI 2025 (2 Oral).
 - *2024.10*: &nbsp;🎉🎉 Two papers accepted by WACV 2025.
