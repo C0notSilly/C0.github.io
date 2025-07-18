@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xilin He"
-description              : "Junior Research Assistant at The Chinese University of Hong Kong"
+description              : "Incoming MS Student at MBZUAI, Intern at CUHK"
 repository               : "https://c0notsilly.github.io/C0.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xilin He"
   avatar           : "images/me.jpg"
-  bio              : "Shenzhen University"
-  location         : "Shenzhen, China"
+  bio              : "MBZUAI"
+  location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LRdrMfoAAAAJ&hl=zh-CN"
