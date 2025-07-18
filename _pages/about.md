@@ -10,9 +10,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a junior research assistant at the Multimedia Laboratory, CUHK, supervised by Prof. Xiangyu Yue.
-I was honored to be supervised and collaborated with Prof. Weicheng Xie, Prof. Siyang Song and Prof. Linlin Shen during my undergraduate studies. 
-I also work with Prof. Muhammad Haris Khan on domain generalization-related topics.
+I am an incoming MS student at MBZUAI supervised by Prof. Muhammad Haris Khan, as well as an intern at the MMLab of CUHK, supervised by Prof. Xiangyu Yue.
+I was honored to be supervised and collaborate with Prof. Weicheng Xie, Prof. Siyang Song and Prof. Linlin Shen during my undergraduate studies. 
 My research interests include computer vision, model robustness and synthetic data. 
 
 I'm actively looking for collaboration and PhD opportunity, please feel free to drop me an email if interested.
@@ -33,7 +32,7 @@ I'm actively looking for collaboration and PhD opportunity, please feel free to 
 # 📝 Publications 
 \* indicates equal contribution.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/synfer.jpg' alt="arxiv_synfer" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/synfer.jpg' alt="arxiv_synfer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SynFER: Towards Boosting Facial Expression Recognition with Synthetic Data](https://arxiv.org/pdf/2410.09865)
 
